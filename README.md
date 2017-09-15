@@ -20,3 +20,7 @@ in browser and let use https connection.
 Configure web server on `public` path of this project. Use https protocol.
 
 Open url with index.html.
+
+## Illustration
+
+![](doc/illustration.png)
